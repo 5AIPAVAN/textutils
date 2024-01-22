@@ -10,6 +10,11 @@ root.render(
     <App />
   </React.StrictMode>
 );
+// ABOVE LINES TELLS THAT WHERE THE id = 'root'(in index.html) -> LOAD THE APP COMPONENT THERE
+//React.StrictMode TELLS THAT STRICTMODE IS ON (i.e "use strict" in javascript)
+ 
+
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
